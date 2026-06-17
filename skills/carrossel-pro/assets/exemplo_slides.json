@@ -1,0 +1,15 @@
+{
+  "kit": "tech",
+  "formato": "4:5",
+  "paleta": {"bg": "#0A0A0A", "fg": "#FFFFFF", "muted": "#8A8A8A", "accent": "#7C5CFF", "surface": "#161616", "cream": "#F2EBDD"},
+  "handle": "@helio.vibecoding",
+  "slides": [
+    {"tipo": "capa", "kicker": "VIBE CODING", "titulo": "5 erros que travam quem cria app com IA", "sub": "O numero 3 quase todo iniciante comete."},
+    {"tipo": "passo", "ghost": true, "titulo": "Pedir tudo de uma vez", "corpo": "A IA acerta mais quando voce quebra o pedido em passos pequenos e valida cada um."},
+    {"tipo": "insight", "texto": "Quem descreve melhor o problema, programa melhor, mesmo sem saber programar.", "fonte": "regra da casa"},
+    {"tipo": "lista", "titulo": "O que checar antes de publicar", "itens": ["A IA testou o fluxo?", "Os dados estao seguros?", "Funciona no celular?"]},
+    {"tipo": "stat", "numero": "3x", "rotulo": "mais rapido", "corpo": "e o que voce ganha validando em pedacos em vez de refazer tudo no fim."},
+    {"tipo": "insight", "texto": "Ferramenta nao substitui clareza. Ela amplifica a sua.", "breather": true},
+    {"tipo": "cta", "titulo": "Salva esse post pra nao esquecer", "acao": "Me segue pra mais", "sub": "Conteudo de IA pra quem constroi de verdade."}
+  ]
+}
